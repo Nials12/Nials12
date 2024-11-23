@@ -14,6 +14,24 @@ Miguel Angel Lopz Cacho
 
 El presente documento tiene como objetivo principal el desarrollo de un modelo de datos relacional y no relacional para una solución de software orientada a la gestión de información relacionada con el Mundial de Fútbol de la FIFA. A partir de los datos proporcionados sobre equipos, confederaciones, jugadores, clubes y partidos, se construirá una estructura que permita representar esta información de manera eficiente, precisa y escalable.
 
+
+### Objetivo Generale
+Diseñar y construir un modelo de datos relacional y no relacional que permita administrar y gestionar de manera eficiente la información relacionada con el Mundial de Fútbol de la FIFA, garantizando la integridad, flexibilidad y escalabilidad de los datos.
+
+#### Objetevis Especificos 
+1.Analizar la información proporcionada sobre equipos, jugadores, confederaciones, clubes y partidos para identificar las estructuras de datos necesarias.
+
+2.Diseñar el modelo físico de datos relacional mediante herramientas de modelado que aseguren la normalización y relaciones adecuadas entre las entidades.
+
+3.Construir el modelo no relacional en formato JSON, adaptando la información a un esquema jerárquico que facilite consultas rápidas y específicas.
+
+45.Generar scripts DDL y DML para la creación y manipulación de ambos modelos en los sistemas gestores de bases de datos seleccionados (MySQL y MongoDB).
+
+5.Validar que los modelos diseñados permitan almacenar y gestionar los datos suministrados sin pérdida de información, proporcionando soporte a los requerimientos del caso práctico.
+
+
+
+
 ### Desarrollo
 
 ##### 1. Análisis de los datos suministrados
